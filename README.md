@@ -20,7 +20,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
-* `ember serve``ember server -- port port number`
+* `ember serve``ember server --port port number`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ### Code Generators
