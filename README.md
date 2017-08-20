@@ -1,5 +1,7 @@
 # ember-crud-application
 [![Build Status](http://localhost:8080/buildStatus/icon?job=ember-crud-app)](http://localhost:8080/job/ember-crud-app/)
+<a href='http://localhost:8080/job/ember-crud-app/'><img src='http://localhost:8080/job/ember-crud-app/badge/icon'></a>
+http://localhost:8080/buildStatus/icon?job=ember-crud-app
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
