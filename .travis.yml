@@ -12,4 +12,4 @@ script:
   - npm test
 
 notifications:
-  - slack: skhazri:UJPXzlZ6vVatyuuHqAwg4W74
+   slack: skhazri:UJPXzlZ6vVatyuuHqAwg4W74
