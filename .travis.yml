@@ -1,2 +1,15 @@
+---
+language: node_js
+node_js:
+  - "6"
+
+sudo: false
+
+install:
+  - npm install
+
+script:
+  - npm test
+
 notifications:
-  slack: skhazri:UJPXzlZ6vVatyuuHqAwg4W74
+  - slack: skhazri:UJPXzlZ6vVatyuuHqAwg4W74
